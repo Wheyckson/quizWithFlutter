@@ -4,11 +4,12 @@
 
 # projetoPerguntas
 
-Um quiz com 5 perguntas com Flutter/Dart (mobile).
+📱 Um quiz com 5 perguntas com Flutter/Dart (mobile) 📱.
 
 Prévia:
-
-<img src="./assets/quiz.gif" alt="Quiz Demo" height="400" align="center"/> 
+<h1 align="center">
+	<img src="./assets/quiz.gif" alt="Quiz Demo" height="600"/> 
+</h1>
 
 Made with ♥ by Whey :wave: [Get in touch!](https://www.linkedin.com/in/wheyckson-lopes/)
 
